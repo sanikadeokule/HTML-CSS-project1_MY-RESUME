@@ -1,0 +1,27 @@
+table,th,td
+          {
+            border: 1px solid black ;
+            border-collapse : collapse;
+          }
+.nav {
+  background-color:white
+  list-style-type: none;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.nav li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 20px;
+}     
+img{
+
+   width: 70px;
+  height: 10%;
+  border-right: 7px black solid;
+  border-left: 7px black solid;
+  float: left;
+  margin-right: 10px;
+}
